@@ -3,7 +3,7 @@
 Üdvözlünk az **EcoFlyte** GitHub oldalán! 🚀 Az EcoFlyte egy modern webshop, amely **elektromos rollereket és kerékpárokat** kínál, hamarosan pedig kiegészítőkkel is bővül a kínálatunk.
 
 ## 🌐 Weboldal
-🔗 [ecoFlyte.eu](https://ecoflyte.eu)
+🔗 [EcoFlyte.eu](https://ecoflyte.eu)
 
 ## 💻 Technológia
 Az oldal a legmodernebb webtechnológiákra épül:
