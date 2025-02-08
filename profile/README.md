@@ -21,3 +21,5 @@ Csatlakozz a Discord szerverünkhöz, ahol **naponta lehetőséged van kuponokat
 
 ## 📬 Kapcsolat
 Ha bármilyen kérdésed van, fordulj hozzánk bizalommal!
+- **Email**: [support@ecoflyte.eu](mailto:support@ecoflyte.eu)
+- **Discord**: [EcoFlyte Discord](https://dc.ecoflyte.eu)
